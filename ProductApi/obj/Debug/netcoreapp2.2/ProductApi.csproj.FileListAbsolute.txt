@@ -1,0 +1,14 @@
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.deps.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.dev.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.dll
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.csprojAssemblyReference.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.csproj.CoreCompileInputs.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cs
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfoInputs.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfo.cs
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorTargetAssemblyInfo.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.pdb
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.dll
+D:\MST\Staj Projeler\.net core\microservice-apigateway\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.pdb

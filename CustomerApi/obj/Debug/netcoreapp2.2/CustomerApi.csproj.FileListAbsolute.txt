@@ -1,0 +1,14 @@
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\bin\Debug\netcoreapp2.2\CustomerApi.deps.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\bin\Debug\netcoreapp2.2\CustomerApi.runtimeconfig.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\bin\Debug\netcoreapp2.2\CustomerApi.runtimeconfig.dev.json
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\bin\Debug\netcoreapp2.2\CustomerApi.dll
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.csprojAssemblyReference.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.csproj.CoreCompileInputs.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.RazorAssemblyInfo.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.RazorAssemblyInfo.cs
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.AssemblyInfoInputs.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.AssemblyInfo.cs
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.RazorTargetAssemblyInfo.cache
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\bin\Debug\netcoreapp2.2\CustomerApi.pdb
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.dll
+D:\MST\Staj Projeler\.net core\microservice-apigateway\CustomerApi\obj\Debug\netcoreapp2.2\CustomerApi.pdb

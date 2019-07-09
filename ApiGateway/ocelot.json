@@ -1,0 +1,29 @@
+﻿{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/Customer",//url dizini
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "UpstreamPathTemplate": "/customer-service/customer"//kullanıcı hangi path'i yazdığında bu api url'ine yönlendirilecek
+    },
+    {
+      "DownstreamPathTemplate": "/api/Product",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "UpstreamPathTemplate": "/product-service/product"
+    }
+  ],
+  "GlobalConfiguration": { //api gateway url and port
+    "BaseUrl": "http://localhost:7000"
+  }
+}
